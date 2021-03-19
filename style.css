@@ -1,0 +1,9 @@
+h2 { 
+    font-size:25px !important; 
+}
+.btn-success:hover { 
+    background-color: red; 
+}
+ canvas { 
+border: solid 2px black;    
+}
